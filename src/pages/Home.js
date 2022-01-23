@@ -56,7 +56,7 @@ class Home extends Component {
      this.setState({
        score:scores
      })
-    console.log('score',scores)
+    // console.log('score',scores)
     
     
  
@@ -134,9 +134,9 @@ class Home extends Component {
               <div class="card">
                 <img src={cat} alt="Avatar" />
                 <h4>
-                  <b>John Doe</b>
+                  <b>Non cupidatat</b>
                 </h4>
-                <p>Architect Engineer</p>
+                <p>Non cupidatat nulla incididunt sunt ut</p>
               </div>
             </div>
             <div className="vote-btn">
@@ -152,9 +152,9 @@ class Home extends Component {
               <div class="card">
                 <img src={dog} alt="Avatar" />
                 <h4>
-                  <b>John Doe</b>
+                  <b>Nulla do</b>
                 </h4>
-                <p>Architect Engineer</p>
+                <p>reprehenderit pariatur eu quis Lorem eu dolore aliquar</p>
               </div>
             </div>
             <div className="vote-btn">
@@ -170,9 +170,9 @@ class Home extends Component {
               <div class="card">
                 <img src={alpaca} alt="Avatar" />
                 <h4>
-                  <b>John Doe</b>
+                  <b>Nostrud ea </b>
                 </h4>
-                <p>Architect Engineer</p>
+                <p>quis in dolore laboris officia occaecat adipisicing.</p>
               </div>
             </div>
             <div className="vote-btn">
